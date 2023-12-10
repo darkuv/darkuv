@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+👯 Looking for a new job as a frontend developer 😄
+🛠️ Currently fine-tuning my skills while working on a dynamic webshop using Next.js. Check it out: [TestWebshop.](https://testwebshop20.vercel.app/)
 <!--
 **darkuv/darkuv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
