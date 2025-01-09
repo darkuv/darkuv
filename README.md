@@ -1,10 +1,10 @@
-### Hi there 👋
-Showing my skills in this portfolio (2022):
-PHP https://github.com/darkuv/Lesson-Reclaim-Portal
-Vanilla JavaScript https://github.com/darkuv/dog-match/tree/main/vanillajs
-Same project in React https://github.com/darkuv/dog-match/tree/main/react-app 
-Next.js (does not work fully anymore because Commerce.js is down, but, since it's a portfolio project, I will leave the link here anyway) https://testwebshop20.vercel.app/ 
-p5.js (art for fun) https://editor.p5js.org/darkuv/collections/08GdulNcn 
+### Hi there 👋 Showing my skills in this portfolio (2022): <br>
+
+<p>PHP https://github.com/darkuv/Lesson-Reclaim-Portal</p>
+<p>Vanilla JavaScript https://github.com/darkuv/dog-match/tree/main/vanillajs </p>
+<p>Same project in React https://github.com/darkuv/dog-match/tree/main/react-app  </p>
+<p>Next.js (does not work anymore because Commerce.js is down, but, since it's a portfolio project, I will leave the link here anyway) https://testwebshop20.vercel.app/ </p>
+<p>p5.js (art for fun) https://editor.p5js.org/darkuv/collections/08GdulNcn  </p>
 
 <!--
 **darkuv/darkuv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
