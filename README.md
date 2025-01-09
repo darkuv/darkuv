@@ -1,6 +1,11 @@
 ### Hi there 👋
-👯 Looking for a new job as a frontend developer 😄
-🛠️ Currently fine-tuning my skills while working on a dynamic webshop using Next.js. Check it out: [TestWebshop.](https://testwebshop20.vercel.app/)
+Showing my skills in this portfolio (2022):
+PHP https://github.com/darkuv/Lesson-Reclaim-Portal
+Vanilla JavaScript https://github.com/darkuv/dog-match/tree/main/vanillajs
+Same project in React https://github.com/darkuv/dog-match/tree/main/react-app 
+Next.js (does not work fully anymore because Commerce.js is down, but, since it's a portfolio project, I will leave the link here anyway) https://testwebshop20.vercel.app/ 
+p5.js (art for fun) https://editor.p5js.org/darkuv/collections/08GdulNcn 
+
 <!--
 **darkuv/darkuv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
